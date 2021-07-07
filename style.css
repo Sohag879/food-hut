@@ -1,0 +1,226 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding-top: 30px;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+    display: flex;
+}
+
+ul li {
+    font-weight: bold;
+    padding: 15px 20px;
+    padding-right: 30px;
+    background-color:
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+
+
+
+.first-section {
+    display: flex;
+    margin-bottom: 85px;
+}
+
+.description {
+    width: 60%;
+    padding-left: 5%;
+}
+
+.description h1 {
+    font-size: 45px;
+    text-transform: capitalize;
+}
+
+.description h1 span {
+    color: green;
+}
+
+.description p {
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    color: rgba(177, 167, 167, 0.904);
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+.link-button {
+    font-weight: bolder;
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    padding: 15px 30px;
+    border-radius: 40px;
+}
+
+.first-section img {
+    width: 80%;
+}
+
+
+
+
+.second-section {
+    display: flex;
+    background-image: url(image/7.png);
+    margin-bottom: 40px;
+}
+
+.about-pic img {
+    width: 40%;
+    margin-left: 200px;
+    margin-top: 65px;
+}
+
+.about-me {
+    margin-top: 70px;
+
+}
+
+.about-me h2 {
+    margin-left: 30%;
+    color: blue;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.about-me p {
+    color: green;
+    text-align: left;
+    margin-left: 30%;
+    width: 40%;
+    margin-bottom: 40px;
+}
+
+.link-button2 {
+    font-weight: bolder;
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    margin-top: px;
+    padding: 15px 30px;
+    border-radius: 40px;
+    margin-left: 30%;
+
+}
+
+
+
+
+.recipie-title h2,
+p {
+    color: gray;
+    text-align: center;
+}
+
+.recipie-title p {
+    padding-bottom: 10px;
+    color: orange;
+}
+
+
+
+.fourth-section {
+    display: flex;
+    padding-right: 5%;
+    margin-bottom: 50px;
+    width: 80%;
+
+}
+
+
+
+.fourth-section p {
+    text-align: left;
+}
+
+.image1 {
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.image2 {
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.image3 {
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+
+
+
+.fifth-section {
+    display: flex;
+    margin-left: 2%;
+    margin-right: 5%;
+    padding-bottom: 2%;
+    padding-left: 30%;
+    margin-bottom: 5%;
+    box-shadow: 5px 5px 30px lightblue;
+    border: 1px solid light;
+    border-radius: 5px;
+
+}
+
+.fifth-section div {
+    margin-left: 5%;
+
+}
+
+
+
+
+
+.footer {
+    width: 100%;
+    height: 150px;
+    background-color: black;
+    text-align: center;
+}
+
+.footer small {
+    color: gray;
+    font-weight: bolder;
+}
+
+.footer div {
+    display: block;
+    padding-top: 2%;
+}
+
+.footer .food {
+    color: orange;
+    font-weight: bolder;
+}
+
+.footer .network {
+    color: gray;
+    font-weight: bolder;
+}
